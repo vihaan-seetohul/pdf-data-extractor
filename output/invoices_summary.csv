@@ -1,0 +1,7 @@
+source_file,invoice_number,issue_date,due_date,vendor_name,customer_name,subtotal,tax,total,line_item_count,extraction_method
+format_1_classic_1.pdf,INV-98196,2026-04-09,2026-05-09,Acme Manufacturing Inc.,Globex Corporation,3451.75,293.4,3745.15,4,pdfplumber
+format_1_classic_2.pdf,INV-13280,2026-04-13,2026-05-13,Acme Manufacturing Inc.,Globex Corporation,3525.5,299.67,3825.17,4,pdfplumber
+format_2_modern_1.pdf,INV-1851,2026-03-09,2026-04-08,Evergreen Supply,Group Jumbo Enterprises,2205.6,187.48,2393.08,4,pdfplumber+text-fallback
+format_2_modern_2.pdf,INV-48052,2026-03-03,2026-04-02,Delta Trading,Co. Globex Corporation,2736.35,232.59,2968.94,5,pdfplumber+text-fallback
+format_3_compact_1.pdf,INV-48400,2026-03-21,2026-04-20,Crystal Software Solutions,Lumiere Group,1276.5,108.5,1385.0,4,pdfplumber
+format_3_compact_2.pdf,INV-60429,2026-03-17,2026-04-16,Delta Trading Co.,Jumbo Enterprises,6798.5,577.87,7376.37,5,pdfplumber

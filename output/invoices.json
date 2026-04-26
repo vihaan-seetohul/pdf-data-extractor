@@ -1,0 +1,278 @@
+{
+  "exported_at": "2026-04-26T08:17:42.272299Z",
+  "invoice_count": 6,
+  "invoices": [
+    {
+      "source_file": "format_1_classic_1.pdf",
+      "invoice_number": "INV-98196",
+      "issue_date": "2026-04-09",
+      "due_date": "2026-05-09",
+      "vendor_name": "Acme Manufacturing Inc.",
+      "customer_name": "Globex Corporation",
+      "line_items": [
+        {
+          "description": "Steel mounting bracket (set of 4)",
+          "sku": "MNT-204",
+          "quantity": 9,
+          "unit_price": 45.75,
+          "line_total": 411.75
+        },
+        {
+          "description": "Hydraulic actuator kit",
+          "sku": "HYD-118",
+          "quantity": 2,
+          "unit_price": 320.0,
+          "line_total": 640.0
+        },
+        {
+          "description": "Industrial sensor module",
+          "sku": "SEN-042",
+          "quantity": 10,
+          "unit_price": 89.5,
+          "line_total": 895.0
+        },
+        {
+          "description": "Wireless transmitter unit",
+          "sku": "TRX-009",
+          "quantity": 7,
+          "unit_price": 215.0,
+          "line_total": 1505.0
+        }
+      ],
+      "subtotal": 3451.75,
+      "tax": 293.4,
+      "total": 3745.15,
+      "extraction_method": "pdfplumber",
+      "raw_text_length": 509
+    },
+    {
+      "source_file": "format_1_classic_2.pdf",
+      "invoice_number": "INV-13280",
+      "issue_date": "2026-04-13",
+      "due_date": "2026-05-13",
+      "vendor_name": "Acme Manufacturing Inc.",
+      "customer_name": "Globex Corporation",
+      "line_items": [
+        {
+          "description": "Cable harness (10m)",
+          "sku": "CBL-010",
+          "quantity": 9,
+          "unit_price": 67.5,
+          "line_total": 607.5
+        },
+        {
+          "description": "Premium widget assembly",
+          "sku": "WID-001",
+          "quantity": 7,
+          "unit_price": 145.0,
+          "line_total": 1015.0
+        },
+        {
+          "description": "Steel mounting bracket (set of 4)",
+          "sku": "MNT-204",
+          "quantity": 4,
+          "unit_price": 45.75,
+          "line_total": 183.0
+        },
+        {
+          "description": "Wireless transmitter unit",
+          "sku": "TRX-009",
+          "quantity": 8,
+          "unit_price": 215.0,
+          "line_total": 1720.0
+        }
+      ],
+      "subtotal": 3525.5,
+      "tax": 299.67,
+      "total": 3825.17,
+      "extraction_method": "pdfplumber",
+      "raw_text_length": 506
+    },
+    {
+      "source_file": "format_2_modern_1.pdf",
+      "invoice_number": "INV-1851",
+      "issue_date": "2026-03-09",
+      "due_date": "2026-04-08",
+      "vendor_name": "Evergreen Supply",
+      "customer_name": "Group Jumbo Enterprises",
+      "line_items": [
+        {
+          "description": "Power supply (24V/10A)",
+          "sku": "PWR-300",
+          "quantity": 4,
+          "unit_price": 178.0,
+          "line_total": 712.0
+        },
+        {
+          "description": "Wireless transmitter unit",
+          "sku": "TRX-009",
+          "quantity": 6,
+          "unit_price": 215.0,
+          "line_total": 1290.0
+        },
+        {
+          "description": "Polymer gasket replacement",
+          "sku": "GSK-076",
+          "quantity": 2,
+          "unit_price": 12.3,
+          "line_total": 24.6
+        },
+        {
+          "description": "Industrial sensor module",
+          "sku": "SEN-042",
+          "quantity": 2,
+          "unit_price": 89.5,
+          "line_total": 179.0
+        }
+      ],
+      "subtotal": 2205.6,
+      "tax": 187.48,
+      "total": 2393.08,
+      "extraction_method": "pdfplumber+text-fallback",
+      "raw_text_length": 460
+    },
+    {
+      "source_file": "format_2_modern_2.pdf",
+      "invoice_number": "INV-48052",
+      "issue_date": "2026-03-03",
+      "due_date": "2026-04-02",
+      "vendor_name": "Delta Trading",
+      "customer_name": "Co. Globex Corporation",
+      "line_items": [
+        {
+          "description": "Thermal protection housing",
+          "sku": "THP-022",
+          "quantity": 9,
+          "unit_price": 95.0,
+          "line_total": 855.0
+        },
+        {
+          "description": "Polymer gasket replacement",
+          "sku": "GSK-076",
+          "quantity": 2,
+          "unit_price": 12.3,
+          "line_total": 24.6
+        },
+        {
+          "description": "Premium widget assembly",
+          "sku": "WID-001",
+          "quantity": 7,
+          "unit_price": 145.0,
+          "line_total": 1015.0
+        },
+        {
+          "description": "Wireless transmitter unit",
+          "sku": "TRX-009",
+          "quantity": 2,
+          "unit_price": 215.0,
+          "line_total": 430.0
+        },
+        {
+          "description": "Steel mounting bracket (set of 4)",
+          "sku": "MNT-204",
+          "quantity": 9,
+          "unit_price": 45.75,
+          "line_total": 411.75
+        }
+      ],
+      "subtotal": 2736.35,
+      "tax": 232.59,
+      "total": 2968.94,
+      "extraction_method": "pdfplumber+text-fallback",
+      "raw_text_length": 525
+    },
+    {
+      "source_file": "format_3_compact_1.pdf",
+      "invoice_number": "INV-48400",
+      "issue_date": "2026-03-21",
+      "due_date": "2026-04-20",
+      "vendor_name": "Crystal Software Solutions",
+      "customer_name": "Lumiere Group",
+      "line_items": [
+        {
+          "description": "Industrial sensor module",
+          "sku": "SEN-042",
+          "quantity": 5,
+          "unit_price": 89.5,
+          "line_total": 447.5
+        },
+        {
+          "description": "Premium widget assembly",
+          "sku": "WID-001",
+          "quantity": 2,
+          "unit_price": 145.0,
+          "line_total": 290.0
+        },
+        {
+          "description": "Steel mounting bracket (set of 4)",
+          "sku": "MNT-204",
+          "quantity": 4,
+          "unit_price": 45.75,
+          "line_total": 183.0
+        },
+        {
+          "description": "Power supply (24V/10A)",
+          "sku": "PWR-300",
+          "quantity": 2,
+          "unit_price": 178.0,
+          "line_total": 356.0
+        }
+      ],
+      "subtotal": 1276.5,
+      "tax": 108.5,
+      "total": 1385.0,
+      "extraction_method": "pdfplumber",
+      "raw_text_length": 642
+    },
+    {
+      "source_file": "format_3_compact_2.pdf",
+      "invoice_number": "INV-60429",
+      "issue_date": "2026-03-17",
+      "due_date": "2026-04-16",
+      "vendor_name": "Delta Trading Co.",
+      "customer_name": "Jumbo Enterprises",
+      "line_items": [
+        {
+          "description": "Hydraulic actuator kit",
+          "sku": "HYD-118",
+          "quantity": 5,
+          "unit_price": 320.0,
+          "line_total": 1600.0
+        },
+        {
+          "description": "Wireless transmitter unit",
+          "sku": "TRX-009",
+          "quantity": 2,
+          "unit_price": 215.0,
+          "line_total": 430.0
+        },
+        {
+          "description": "Cable harness (10m)",
+          "sku": "CBL-010",
+          "quantity": 10,
+          "unit_price": 67.5,
+          "line_total": 675.0
+        },
+        {
+          "description": "Industrial sensor module",
+          "sku": "SEN-042",
+          "quantity": 3,
+          "unit_price": 89.5,
+          "line_total": 268.5
+        },
+        {
+          "description": "Control panel assembly",
+          "sku": "CTL-150",
+          "quantity": 9,
+          "unit_price": 425.0,
+          "line_total": 3825.0
+        }
+      ],
+      "subtotal": 6798.5,
+      "tax": 577.87,
+      "total": 7376.37,
+      "extraction_method": "pdfplumber",
+      "raw_text_length": 679
+    }
+  ]
+}

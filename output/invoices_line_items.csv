@@ -1,0 +1,27 @@
+source_file,invoice_number,issue_date,vendor_name,customer_name,line_number,description,sku,quantity,unit_price,line_total
+format_1_classic_1.pdf,INV-98196,2026-04-09,Acme Manufacturing Inc.,Globex Corporation,1,Steel mounting bracket (set of 4),MNT-204,9,45.75,411.75
+format_1_classic_1.pdf,INV-98196,2026-04-09,Acme Manufacturing Inc.,Globex Corporation,2,Hydraulic actuator kit,HYD-118,2,320.0,640.0
+format_1_classic_1.pdf,INV-98196,2026-04-09,Acme Manufacturing Inc.,Globex Corporation,3,Industrial sensor module,SEN-042,10,89.5,895.0
+format_1_classic_1.pdf,INV-98196,2026-04-09,Acme Manufacturing Inc.,Globex Corporation,4,Wireless transmitter unit,TRX-009,7,215.0,1505.0
+format_1_classic_2.pdf,INV-13280,2026-04-13,Acme Manufacturing Inc.,Globex Corporation,1,Cable harness (10m),CBL-010,9,67.5,607.5
+format_1_classic_2.pdf,INV-13280,2026-04-13,Acme Manufacturing Inc.,Globex Corporation,2,Premium widget assembly,WID-001,7,145.0,1015.0
+format_1_classic_2.pdf,INV-13280,2026-04-13,Acme Manufacturing Inc.,Globex Corporation,3,Steel mounting bracket (set of 4),MNT-204,4,45.75,183.0
+format_1_classic_2.pdf,INV-13280,2026-04-13,Acme Manufacturing Inc.,Globex Corporation,4,Wireless transmitter unit,TRX-009,8,215.0,1720.0
+format_2_modern_1.pdf,INV-1851,2026-03-09,Evergreen Supply,Group Jumbo Enterprises,1,Power supply (24V/10A),PWR-300,4,178.0,712.0
+format_2_modern_1.pdf,INV-1851,2026-03-09,Evergreen Supply,Group Jumbo Enterprises,2,Wireless transmitter unit,TRX-009,6,215.0,1290.0
+format_2_modern_1.pdf,INV-1851,2026-03-09,Evergreen Supply,Group Jumbo Enterprises,3,Polymer gasket replacement,GSK-076,2,12.3,24.6
+format_2_modern_1.pdf,INV-1851,2026-03-09,Evergreen Supply,Group Jumbo Enterprises,4,Industrial sensor module,SEN-042,2,89.5,179.0
+format_2_modern_2.pdf,INV-48052,2026-03-03,Delta Trading,Co. Globex Corporation,1,Thermal protection housing,THP-022,9,95.0,855.0
+format_2_modern_2.pdf,INV-48052,2026-03-03,Delta Trading,Co. Globex Corporation,2,Polymer gasket replacement,GSK-076,2,12.3,24.6
+format_2_modern_2.pdf,INV-48052,2026-03-03,Delta Trading,Co. Globex Corporation,3,Premium widget assembly,WID-001,7,145.0,1015.0
+format_2_modern_2.pdf,INV-48052,2026-03-03,Delta Trading,Co. Globex Corporation,4,Wireless transmitter unit,TRX-009,2,215.0,430.0
+format_2_modern_2.pdf,INV-48052,2026-03-03,Delta Trading,Co. Globex Corporation,5,Steel mounting bracket (set of 4),MNT-204,9,45.75,411.75
+format_3_compact_1.pdf,INV-48400,2026-03-21,Crystal Software Solutions,Lumiere Group,1,Industrial sensor module,SEN-042,5,89.5,447.5
+format_3_compact_1.pdf,INV-48400,2026-03-21,Crystal Software Solutions,Lumiere Group,2,Premium widget assembly,WID-001,2,145.0,290.0
+format_3_compact_1.pdf,INV-48400,2026-03-21,Crystal Software Solutions,Lumiere Group,3,Steel mounting bracket (set of 4),MNT-204,4,45.75,183.0
+format_3_compact_1.pdf,INV-48400,2026-03-21,Crystal Software Solutions,Lumiere Group,4,Power supply (24V/10A),PWR-300,2,178.0,356.0
+format_3_compact_2.pdf,INV-60429,2026-03-17,Delta Trading Co.,Jumbo Enterprises,1,Hydraulic actuator kit,HYD-118,5,320.0,1600.0
+format_3_compact_2.pdf,INV-60429,2026-03-17,Delta Trading Co.,Jumbo Enterprises,2,Wireless transmitter unit,TRX-009,2,215.0,430.0
+format_3_compact_2.pdf,INV-60429,2026-03-17,Delta Trading Co.,Jumbo Enterprises,3,Cable harness (10m),CBL-010,10,67.5,675.0
+format_3_compact_2.pdf,INV-60429,2026-03-17,Delta Trading Co.,Jumbo Enterprises,4,Industrial sensor module,SEN-042,3,89.5,268.5
+format_3_compact_2.pdf,INV-60429,2026-03-17,Delta Trading Co.,Jumbo Enterprises,5,Control panel assembly,CTL-150,9,425.0,3825.0
